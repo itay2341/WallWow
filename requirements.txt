@@ -1,5 +1,9 @@
-opencv-python>=4.8.0
-numpy>=1.24.0
-Pillow>=10.0.0
-pyrender>=0.1.45
-trimesh>=3.9.0
+diffusers>=0.25.0
+transformers>=4.36.0
+accelerate>=0.25.0
+safetensors
+Pillow
+numpy
+rembg[gpu]
+opencv-python-headless
+huggingface-hub
